@@ -8,7 +8,7 @@ class River
   end
 
   def fish_in_river()
-    return@fish.count
+    return @fish.count
   end
 
   def add_fish_the_river(fish)
